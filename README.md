@@ -15,8 +15,8 @@ Ce repo contient les rendus de mon Titre Professionnel Developpeur Web et Web Mo
     <tbody>
         <tr>
             <td style="border: 1px solid black;">Dossier projet</td>
-            <td style="border: 1px solid black; text-align: center;">21/11/2025</td>
-            <td style="border: 1px solid black; text-align: center;"><em>finale DRAFT *</em></td>
+            <td style="border: 1px solid black; text-align: center;">27/11/2025</td>
+            <td style="border: 1px solid black; text-align: center;"><em>final DRAFT *</em></td>
         </tr>
         <tr>
             <td style="border: 1px solid black;">Dossier professionnel</td>
@@ -31,6 +31,6 @@ Ce repo contient les rendus de mon Titre Professionnel Developpeur Web et Web Mo
     </tbody>
 </table>
 
-<em>* Il manque uniquement les chapitres "1 Introduction", "2 Remerciements" et "9 Conclusion".</em>
+<em>* dernière passe de correction orthographique à faire".</em>
 
 Date de passage d'examen : vendredi 06 février 2026
