@@ -15,13 +15,13 @@ Ce repo contient les rendus de mon Titre Professionnel Developpeur Web et Web Mo
     <tbody>
         <tr>
             <td style="border: 1px solid black;">Dossier projet</td>
-            <td style="border: 1px solid black; text-align: center;">27/11/2025</td>
-            <td style="border: 1px solid black; text-align: center;"><em>final DRAFT *</em></td>
+            <td style="border: 1px solid black; text-align: center;">01/12/2025</td>
+            <td style="border: 1px solid black; text-align: center;">dépôt final</td>
         </tr>
         <tr>
             <td style="border: 1px solid black;">Dossier professionnel</td>
-            <td style="border: 1px solid black; text-align: center;">02/11/2025</td>
-            <td style="border: 1px solid black; text-align: center;"><em>non finalisé</em></td>
+            <td style="border: 1px solid black; text-align: center;">01/12/2025</td>
+            <td style="border: 1px solid black; text-align: center;"><em>dépôt final *</em></td>
         </tr>
         <tr>
             <td style="border: 1px solid black;">Présentation d'examen</td>
@@ -31,6 +31,6 @@ Ce repo contient les rendus de mon Titre Professionnel Developpeur Web et Web Mo
     </tbody>
 </table>
 
-<em>* dernière passe de correction orthographique à faire".</em>
+<em>* Un projet finalisé, trois projets en cours.</em>
 
 Date de passage d'examen : vendredi 06 février 2026
